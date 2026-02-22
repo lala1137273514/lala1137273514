@@ -11,12 +11,6 @@
 - 项目总索引：`projects/README.md`
 - 项目模板：`projects/_templates/project-readme-template.md`
 
-## 核心项目
-- 百度健康医生 IP（商业化获客 Agent）
-- CEO 大模型（内部双 Agent 效能平台）
-- 千锤平台（大模型评测与可观测中台）
-- 销冠话术宝（商业化 AI 销售辅助应用）
-
 ## 联系方式
 - GitHub: https://github.com/lala1137273514
 
