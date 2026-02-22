@@ -1,31 +1,28 @@
-﻿# Qin Yulong | AI Product Manager
+﻿# 秦宇龙 | AI 产品经理作品集
 
-This repository is my central portfolio hub for AI Product Manager applications.
-All project summaries, evidence links, and interview-ready materials will be organized here.
+该仓库用于统一展示我的 AI 产品项目经历，面向春招投递与面试追问场景。
 
-## About Me
-- Target Role: AI Product Manager (Agent / AIGC / ToB AI)
-- Core Strengths: Product delivery + AI workflow design + measurable business outcomes
-- Keywords: AIGC, Agent, RAG, Prompt Engineering, Vibe Coding, Productization
+## 求职定位
+- 目标岗位：AI 产品经理（Agent / AIGC / ToB AI）
+- 核心能力：需求拆解、工作流设计、跨团队交付、效果量化
+- 关键词：AIGC、Agent、RAG、Prompt Engineering、Vibe Coding、产品商业化
 
-## Portfolio Navigation
-- Project Index: `projects/README.md`
-- Project Template: `projects/_templates/project-readme-template.md`
+## 项目导航
+- 项目总索引：`projects/README.md`
+- 项目模板：`projects/_templates/project-readme-template.md`
 
-## Featured Project Tracks (to be filled)
-- AI Commercialization
-- AI Internal Efficiency Platforms
-- AI Evaluation and Observability
-- AI Sales Enablement
+## 核心项目
+- 百度健康医生 IP（商业化获客 Agent）
+- CEO 大模型（内部双 Agent 效能平台）
+- 千锤平台（大模型评测与可观测中台）
+- 销冠话术宝（商业化 AI 销售辅助应用）
 
-## Contact
-- Email: <your_email>
+## 联系方式
 - GitHub: https://github.com/lala1137273514
-- LinkedIn (optional): <your_linkedin>
 
 ---
 
-## Maintenance Rules
-- One project, one folder under `projects/`
-- Every project must include: context, role, actions, outcomes, evidence
-- Every key claim should be traceable to a source file or metric note
+## 维护规则
+- 一个项目一个目录，统一放在 `projects/`
+- 每个项目至少包含：背景、角色、关键动作、可验证结果、证据文档
+- 每条关键结论可追溯到对应文档或数据说明
